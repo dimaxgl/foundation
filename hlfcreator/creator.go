@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	pb "github.com/golang/protobuf/proto" //nolint:staticcheck
-	"github.com/hyperledger/fabric-protos-go/msp"
+	"github.com/hyperledger/fabric-protos-go-apiv2/msp"
 	"golang.org/x/crypto/sha3"
 )
 
